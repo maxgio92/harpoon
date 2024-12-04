@@ -20,7 +20,6 @@ exists harpoon/github_com_alegrey91_seccomp-test-coverage_pkg_randomic_DoSomethi
 exists harpoon/github_com_alegrey91_seccomp-test-coverage_pkg_randomic_FlipCoin
 exists harpoon/github_com_alegrey91_seccomp-test-coverage_pkg_randomic_RockPaperScissors
 exists harpoon/github_com_alegrey91_seccomp-test-coverage_pkg_randomic_ThrowDice
-exists harpoon/github_com_alegrey91_seccomp-test-coverage_pkg_randomic_DoForAWhile
 
 exec harpoon build -D harpoon/ -S --name profile.json
 exists profile.json
